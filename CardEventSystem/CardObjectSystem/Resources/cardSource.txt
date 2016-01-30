@@ -1,0 +1,26 @@
+{
+	"allcards":
+	[
+		{
+			"cardName": "TestCardOne",
+			"relaventEvents":
+			[
+				{ "routingKey": "keyOfEvent1" },
+				{ "routingKey": "keyOfEvent2" }
+			]
+		},
+
+		{
+			"cardName": "TestCardTwo",
+			"relaventEvents":
+			[
+				{ "routingKey": "keyOfEvent2" },
+				{ "routingKey": "keyOfEvent3" }
+			]
+		}
+	
+	
+	
+	]
+
+}
